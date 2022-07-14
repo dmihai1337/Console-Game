@@ -1,0 +1,23 @@
+C:/Users/dancu/Desktop/Console Game/bin/Debug/netcoreapp2.1/Console Game.deps.json
+C:/Users/dancu/Desktop/Console Game/bin/Debug/netcoreapp2.1/Console Game.runtimeconfig.json
+C:/Users/dancu/Desktop/Console Game/bin/Debug/netcoreapp2.1/Console Game.runtimeconfig.dev.json
+C:/Users/dancu/Desktop/Console Game/bin/Debug/netcoreapp2.1/Console Game.dll
+C:/Users/dancu/Desktop/Console Game/bin/Debug/netcoreapp2.1/Console Game.pdb
+C:/Users/dancu/Desktop/Console Game/obj/Debug/netcoreapp2.1/Console Game.csprojAssemblyReference.cache
+C:/Users/dancu/Desktop/Console Game/obj/Debug/netcoreapp2.1/Console Game.csproj.CoreCompileInputs.cache
+C:/Users/dancu/Desktop/Console Game/obj/Debug/netcoreapp2.1/Console Game.AssemblyInfoInputs.cache
+C:/Users/dancu/Desktop/Console Game/obj/Debug/netcoreapp2.1/Console Game.AssemblyInfo.cs
+C:/Users/dancu/Desktop/Console Game/obj/Debug/netcoreapp2.1/Console Game.dll
+C:/Users/dancu/Desktop/Console Game/obj/Debug/netcoreapp2.1/Console Game.pdb
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/bin/Debug/netcoreapp2.1/Console Game.deps.json
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/bin/Debug/netcoreapp2.1/Console Game.runtimeconfig.json
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/bin/Debug/netcoreapp2.1/Console Game.runtimeconfig.dev.json
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/bin/Debug/netcoreapp2.1/Console Game.dll
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/bin/Debug/netcoreapp2.1/Console Game.pdb
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/obj/Debug/netcoreapp2.1/Console Game.csprojAssemblyReference.cache
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/obj/Debug/netcoreapp2.1/Console Game.AssemblyInfoInputs.cache
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/obj/Debug/netcoreapp2.1/Console Game.AssemblyInfo.cs
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/obj/Debug/netcoreapp2.1/Console Game.csproj.CoreCompileInputs.cache
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/obj/Debug/netcoreapp2.1/Console Game.dll
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/obj/Debug/netcoreapp2.1/Console Game.pdb
+/Users/dancumihai13/Downloads/C# Console Game/Console Game/obj/Debug/netcoreapp2.1/Console Game.genruntimeconfig.cache

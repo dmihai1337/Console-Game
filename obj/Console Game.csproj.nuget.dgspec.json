@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dancumihai13/Downloads/C# Console Game/Console Game/Console Game.csproj": {}
+  },
+  "projects": {
+    "/Users/dancumihai13/Downloads/C# Console Game/Console Game/Console Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dancumihai13/Downloads/C# Console Game/Console Game/Console Game.csproj",
+        "projectName": "Console Game",
+        "projectPath": "/Users/dancumihai13/Downloads/C# Console Game/Console Game/Console Game.csproj",
+        "packagesPath": "/Users/dancumihai13/.nuget/packages/",
+        "outputPath": "/Users/dancumihai13/Downloads/C# Console Game/Console Game/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dancumihai13/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/dancumihai13/Library/Caches/VisualStudio/8.0/MSBuild/2336_1/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
