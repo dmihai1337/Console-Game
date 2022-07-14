@@ -1,4 +1,4 @@
-﻿/* A simple game based on fighting enemies. it isn't complete, it needs levels and other things I'm still thinking on! */
+﻿/* A simple game based on fighting enemies. */
 
 using System;
 using System.Collections.Generic;
